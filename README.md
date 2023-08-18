@@ -12,7 +12,11 @@ git clone https://github.com/namchuminh/nodejs_todo_api.git
 npm install
 ```
 
-### Run
+## Database
+
+Import reactjs_todo.sql to MySQL
+
+## Run
 ```
 npm start
 ```
